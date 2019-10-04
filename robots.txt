@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://piecaedae.avim-serwis.pl/sitemap.xml
